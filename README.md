@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Arthur Cornélio</h1>
+<h1 align="center">Hi 🙌, I'm Arthur Cornélio</h1>
 <h3 align="center">A passionate data scientist from Brazil, living in France (Paris)</h3>
 
 - 🔭 I’m currently working on [BirdCLEF 2024 Kaggle Competition](https://www.kaggle.com/competitions/birdclef-2024)
 
-- 🌱 I’m currently learning **Audio classification (ML, DL), MLOps (ML Flow, Dockers and other deployment tools)**
+- 🌱 I’m currently learning **Audio classification (ML, DL),MLOps (ML Flow, Dockers and other deployment tools)**
 
 - 👯 I’m looking to collaborate on **data science projects, notably related to music and social sciences**
 
