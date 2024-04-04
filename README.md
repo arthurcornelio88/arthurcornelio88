@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙌, I'm Arthur Cornélio</h1>
 <h3 align="center">A passionate data scientist from Brazil, living in France (Paris)</h3>
 
-- 😄 [How happy is Europe?](https://github.com/arthurcornelio88/how-happy-is-europe) **This is my last data science project !** A machile-learning model to predict happiness in a large dataset made by the European Social Survey.
+- 😄 [How happy is Europe?](https://github.com/arthurcornelio88/how-happy-is-europe) **This is my project to finish my Le Wagon bootcamp in DataScience and AI!** It's a machile-learning model to predict happiness in a large dataset made by the European Social Survey.
 
 - 🔭 I’m currently working on [BirdCLEF 2024 Kaggle Competition](https://www.kaggle.com/competitions/birdclef-2024)
 
