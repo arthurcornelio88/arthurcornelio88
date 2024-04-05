@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **music, data science, social science, football, yoga...!**
 
-- 💻 Here's my [portfolio!](https://troopl.com/arthurcornelio)
+- 💻 Here's my [portfolio](https://troopl.com/arthurcornelio)
 
 - 📄 Know about my experiences in [my resume](https://tinyurl.com/5n8kwxpk)
 
