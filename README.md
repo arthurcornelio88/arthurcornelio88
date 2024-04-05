@@ -5,17 +5,19 @@
 
 - 🔭 I’m currently working on [BirdCLEF 2024 Kaggle Competition](https://www.kaggle.com/competitions/birdclef-2024)
 
-- 🌱 I’m currently learning **Audio classification (ML, DL), MLOps (ML Flow, Dockers and other deployment tools)**
+- 🌱 I’m currently learning **audio classification (librosa) and birds, MLOps (ML Flow, Dockers and other deployment tools)**
 
 - 👯 I’m looking to collaborate on **data science projects, notably related to music and social sciences**
 
 - 💬 Ask me about **music, data science, social science, football, yoga...!**
 
+- 💻 Here's my [portfolio!](https://troopl.com/arthurcornelio)
+
+- 📄 Know about my experiences in [my resume](https://tinyurl.com/5n8kwxpk)
+
 - 📫 How to reach me **arthur.cornelio@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/5n8kwxpk](https://tinyurl.com/5n8kwxpk)
-
-- ⚡ Fun fact **I'm a tenor, I like high notes !**
+- 🎼 Fun fact **I'm a tenor, I like high notes !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
