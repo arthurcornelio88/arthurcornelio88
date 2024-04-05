@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙌, I'm Arthur Cornélio</h1>
-<h3 align="center">A passionate data scientist from Brazil, living in France (Paris)</h3>
+<h3 align="center">A passionate brazilian data scientist, living in Paris</h3>
 
 - 😄 [How happy is Europe?](https://github.com/arthurcornelio88/how-happy-is-europe) **To finish my Le Wagon bootcamp in DataScience and AI, I worked on this project!** It's a machine-learning model to predict happiness in a large dataset made by the European Social Survey.
 
