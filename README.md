@@ -1,11 +1,11 @@
 <h1 align="center">Hi 🙌, I'm Arthur Cornélio</h1>
 <h3 align="center">A passionate data scientist from Brazil, living in France (Paris)</h3>
 
-- 😄 [How happy is Europe?](https://github.com/arthurcornelio88/how-happy-is-europe) **To finish my Le Wagon bootcamp in DataScience and AI, I worked on this project!** It's a machile-learning model to predict happiness in a large dataset made by the European Social Survey.
+- 😄 [How happy is Europe?](https://github.com/arthurcornelio88/how-happy-is-europe) **To finish my Le Wagon bootcamp in DataScience and AI, I worked on this project!** It's a machine-learning model to predict happiness in a large dataset made by the European Social Survey.
 
 - 🔭 I’m currently working on [BirdCLEF 2024 Kaggle Competition](https://www.kaggle.com/competitions/birdclef-2024)
 
-- 🌱 I’m currently learning **Audio classification (ML, DL),MLOps (ML Flow, Dockers and other deployment tools)**
+- 🌱 I’m currently learning **Audio classification (ML, DL), MLOps (ML Flow, Dockers and other deployment tools)**
 
 - 👯 I’m looking to collaborate on **data science projects, notably related to music and social sciences**
 
