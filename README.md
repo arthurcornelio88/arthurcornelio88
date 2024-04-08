@@ -28,7 +28,7 @@
 <a href="https://www.youtube.com/c/arthurvinicius3851" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arthurvinicius3851" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arthur_cornelio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arthur_cornelio" height="30" width="40" /></a>
 </p>
-
+<h3 align="left">Codewars:</h3>
 <p>&nbsp;<img align="left" src="https://www.codewars.com/users/Arthur%20Corn%C3%A9lio/badges/large" alt="arthurcornelio88" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
