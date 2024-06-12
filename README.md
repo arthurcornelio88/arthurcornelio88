@@ -3,7 +3,7 @@
 
 - 😄 [How happy is Europe?](https://github.com/arthurcornelio88/how-happy-is-europe) **To finish my Le Wagon bootcamp in DataScience and AI, I worked on this project!** It's a machine-learning model to predict happiness in a large dataset made by the European Social Survey.
 
-- 🦜 I lead a five alumni group to create a model on [BirdCLEF 2024 Kaggle Competition](https://github.com/arthurcornelio88/birdclef2024-lewagon-1601)
+- 🦜 I led a five alumni group to create a model on [BirdCLEF 2024 Kaggle Competition](https://github.com/arthurcornelio88/birdclef2024-lewagon-1601)
 
 - 🔥 I'm working on a classification model (clustering) of music consummation tendencies in Brazil [Kaggle's notebook](https://www.kaggle.com/code/arthurcornelio/arthur-spotify-goi-nia)
 
