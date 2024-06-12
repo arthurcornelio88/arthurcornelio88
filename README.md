@@ -5,7 +5,7 @@
 
 - 🦜 I led a five alumni group to create a model on [BirdCLEF 2024 Kaggle Competition](https://github.com/arthurcornelio88/birdclef2024-lewagon-1601)
 
-- 🔥 I'm working on a classification model (clustering) of music consummation tendencies in Brazil [Kaggle's notebook](https://www.kaggle.com/code/arthurcornelio/arthur-spotify-goi-nia)
+- 🔥 I'm working on a classification model (clustering) of music consummation tendencies in Brazil. Clustering already done on numerical features, take a look at my [Kaggle's notebook](https://www.kaggle.com/code/arthurcornelio/arthur-spotify-goi-nia)
 
 - 🌱 I’m currently learning **audio clusterization (KMeans)**
 
