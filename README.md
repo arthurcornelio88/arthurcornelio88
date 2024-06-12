@@ -3,9 +3,11 @@
 
 - 😄 [How happy is Europe?](https://github.com/arthurcornelio88/how-happy-is-europe) **To finish my Le Wagon bootcamp in DataScience and AI, I worked on this project!** It's a machine-learning model to predict happiness in a large dataset made by the European Social Survey.
 
-- 🔭 I’m currently working on [BirdCLEF 2024 Kaggle Competition](https://www.kaggle.com/competitions/birdclef-2024)
+- 🦜 I lead a five alumni group to create a model on [BirdCLEF 2024 Kaggle Competition](https://github.com/arthurcornelio88/birdclef2024-lewagon-1601)
 
-- 🌱 I’m currently learning **audio classification (librosa) and birds, MLOps (ML Flow, Dockers and other deployment tools)**
+- 🔥 I'm working on a classification model (clustering) of music consummation tendencies in Brazil [Kaggle's notebook](https://www.kaggle.com/code/arthurcornelio/arthur-spotify-goi-nia)
+
+- 🌱 I’m currently learning **audio clusterization (KMeans)**
 
 - 👯 I’m looking to collaborate on **data science projects, notably related to music and social sciences**
 
@@ -13,7 +15,7 @@
 
 - 💻 Here's my [portfolio](https://troopl.com/arthurcornelio)
 
-- 📄 Know about my experiences in [my resume](https://tinyurl.com/5n8kwxpk)
+- 📄 Know about my experiences in [my resume](https://tinyurl.com/szs8ty94)
 
 - 📫 How to reach me **arthur.cornelio@gmail.com**
 
