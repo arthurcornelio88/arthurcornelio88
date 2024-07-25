@@ -7,7 +7,7 @@
 
 - 🔥 I'm working on a classification model (clustering) of music consummation tendencies in Brazil. Clustering already done on numerical features, take a look at my [Kaggle's notebook](https://www.kaggle.com/code/arthurcornelio/arthur-spotify-goi-nia)
 
-- 🌱 I’m currently learning **audio clusterization (KMeans)**
+- 🌱 I’m currently learning **latent diffusion models** to create music by AI
 
 - 👯 I’m looking to collaborate on **data science projects, notably related to music and social sciences**
 
