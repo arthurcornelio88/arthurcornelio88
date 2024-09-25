@@ -2,9 +2,9 @@
 <h3 align="center">A passionate brazilian data scientist, living in Paris</h3>
 
 **Projects** :
-- :technologist: Co-founder and CTO of S.A.M.
+- :technologist: Co-founder and CTO of [S.A.M](https://sammusicia.osc-fr1.scalingo.io/) presenting your ultimate AI tool for creating and recommending music, measure by measure, perfectly tailored to your videos!
 
-- :house_with_garden: AirBnB pricing end-to-end project by myself. 
+- :house_with_garden: End-to-end Machine Learning project predicting Rio de Janeiro's AirBnB pricing. [Kaggle's notebook](https://www.kaggle.com/code/arthurcornelio/predicting-airbnb-housing-prices-in-rio-de-janeiro) and [GitHub repository](https://github.com/arthurcornelio88/airbnbpricing).
 
 - 😄 [How happy is Europe?](https://github.com/arthurcornelio88/how-happy-is-europe) **To finish my Le Wagon bootcamp in DataScience and AI, I worked on this project!** It's a machine-learning model to predict happiness in a large dataset made by the European Social Survey.
 
@@ -26,7 +26,7 @@
 
 - 💻 Here's my [portfolio](https://troopl.com/arthurcornelio)
 
-- My [LinkedIn profile](https://www.linkedin.com/in/arthurcornelio)
+- :link: My [LinkedIn profile](https://www.linkedin.com/in/arthurcornelio)
 
 - 📄 Know about my experiences in [my resume](https://tinyurl.com/szs8ty94)
 
