@@ -1,19 +1,32 @@
 <h1 align="center">Hi 🙌, I'm Arthur Cornélio</h1>
-<h3 align="center">A passionate brazilian data scientist, living in Paris</h3>
+<h3 align="center">A passionate brazilian data scientist :brazil:, living in Paris :fr: </h3>
+
+**Projects** :
+- Co-founder and CTO of S.A.M.
+
+- AirBnB pricing end-to-end project by myself. 
 
 - 😄 [How happy is Europe?](https://github.com/arthurcornelio88/how-happy-is-europe) **To finish my Le Wagon bootcamp in DataScience and AI, I worked on this project!** It's a machine-learning model to predict happiness in a large dataset made by the European Social Survey.
 
 - 🦜 I led a five alumni group to create a model on [BirdCLEF 2024 Kaggle Competition](https://github.com/arthurcornelio88/birdclef2024-lewagon-1601)
 
+**Under construction** : 
+
 - 🔥 I'm working on a classification model (clustering) of music consummation tendencies in Brazil. Clustering already done on numerical features, take a look at my [Kaggle's notebook](https://www.kaggle.com/code/arthurcornelio/arthur-spotify-goi-nia)
 
-- 🌱 I’m currently learning **latent diffusion models** to create music by AI
+- 🌱 I’m currently learning **classification models in depth**.
+
+**Interests** : 
 
 - 👯 I’m looking to collaborate on **data science projects, notably related to music and social sciences**
 
 - 💬 Ask me about **music, data science, social science, football, yoga...!**
 
+**Links** :
+
 - 💻 Here's my [portfolio](https://troopl.com/arthurcornelio)
+
+- My [LinkedIn profile](https://www.linkedin.com/in/arthurcornelio)
 
 - 📄 Know about my experiences in [my resume](https://tinyurl.com/szs8ty94)
 
