@@ -2,7 +2,7 @@
 <h3 align="center">A passionate brazilian data scientist, living in Paris</h3>
 
 **Projects** :
-- :technologist: Co-founder and CTO of [S.A.M](https://sammusicia.osc-fr1.scalingo.io/) presenting your ultimate AI tool for creating and recommending music, measure by measure, perfectly tailored to your videos!
+- :technologist: Co-founder and CTO of [S.A.M](https://sammusicia.osc-fr1.scalingo.io/), your ultimate AI tool for creating and recommending music, measure by measure, perfectly tailored to your videos!
 
 - :house_with_garden: End-to-end Machine Learning project predicting Rio de Janeiro's AirBnB pricing. [Kaggle's notebook](https://www.kaggle.com/code/arthurcornelio/predicting-airbnb-housing-prices-in-rio-de-janeiro) and [GitHub repository](https://github.com/arthurcornelio88/airbnbpricing).
 
