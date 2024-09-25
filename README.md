@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙌, I'm Arthur Cornélio</h1>
-<h3 align="center">A passionate brazilian data scientist :brazil:, living in Paris :fr: </h3>
+<h3 align="center">A passionate brazilian data scientist <span>&#x1f1e7;&#x1f1f7;</span>, living in Paris :fr: </h3>
 
 **Projects** :
 - Co-founder and CTO of S.A.M.
