@@ -1,10 +1,10 @@
 <h1 align="center">Hi 🙌, I'm Arthur Cornélio</h1>
-<h3 align="center">A passionate brazilian data scientist <span>&#x1f1e7;&#x1f1f7;</span>, living in Paris :fr: </h3>
+<h3 align="center">A passionate brazilian data scientist, living in Paris</h3>
 
 **Projects** :
-- Co-founder and CTO of S.A.M.
+- :technologist: Co-founder and CTO of S.A.M.
 
-- AirBnB pricing end-to-end project by myself. 
+- :house_with_garden: AirBnB pricing end-to-end project by myself. 
 
 - 😄 [How happy is Europe?](https://github.com/arthurcornelio88/how-happy-is-europe) **To finish my Le Wagon bootcamp in DataScience and AI, I worked on this project!** It's a machine-learning model to predict happiness in a large dataset made by the European Social Survey.
 
