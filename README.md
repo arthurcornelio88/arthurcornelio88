@@ -30,7 +30,7 @@
 
 - :link: My [LinkedIn profile](https://www.linkedin.com/in/arthurcornelio)
 
-- 📄 Know about my experiences in [my resume](https://tinyurl.com/szs8ty94)
+- 📄 Know about my experiences in [my resume](https://rxresu.me/arthurcornelio88/cornelio-fr)
 
 - 📫 How to reach me **arthur.cornelio@gmail.com**
 
