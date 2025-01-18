@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **arthur.cornelio@gmail.com**
 
-- 🎼 Fun fact **I'm a tenor, I like high notes !**
+- 🎼 Fun fact **I'm a tenor, I like high notes !** And you can listen to my compositions [here](https://arthurvinicius.bandcamp.com/album/cora-o-na-boca) and [here](https://arthurvinicius.bandcamp.com/album/madre-amada) :) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
