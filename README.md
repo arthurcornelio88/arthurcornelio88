@@ -2,7 +2,9 @@
 <h3 align="center">A passionate brazilian data scientist, living in Paris</h3>
 
 **Projects** :
-- :technologist: Co-founder and CTO of [S.A.M](https://sammusicia.osc-fr1.scalingo.io/), presenting your AI tool for crafting personalized music, measure by measure, perfectly tailored to unlock the full potential of your video content!
+- :technologist: AI Engineer intern at [Datacraft](https://datacraft.paris/). Currently contributing to the migration of an Airtable database to an SQLAlchemy-based system, integrating Pytests and deployment, while also preparing workshops and datasets for data scientists' hackathons.
+
+- 🎵 Co-founder and former CTO of [S.A.M](https://www.sammusic.xyz/), an AI tool for crafting personalized music, measure by measure, perfectly tailored to unlock the full potential of video content.
 
 - :house_with_garden: End-to-end Machine Learning project predicting Rio de Janeiro's AirBnB pricing. [Kaggle's notebook](https://www.kaggle.com/code/arthurcornelio/predicting-airbnb-housing-prices-in-rio-de-janeiro) and [GitHub repository](https://github.com/arthurcornelio88/airbnbpricing).
 
