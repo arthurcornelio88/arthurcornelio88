@@ -2,7 +2,9 @@
 <h3 align="center">A passionate brazilian data scientist, living in Paris</h3>
 
 **Projects** :
-- :technologist: AI Engineer intern at [Datacraft](https://datacraft.paris/). Currently contributing to the migration of an Airtable database to an SQLAlchemy-based system, integrating Pytests and deployment, while also preparing workshops and datasets for data scientists' hackathons.
+- :technologist: AI Engineer intern at [Datacraft](https://datacraft.paris/). Contributed to: 
+- - 1) the migration of an Airtable database to an SQLAlchemy-based system, integrating Pytests and deployment.
+- - 2) improving a dataset from a major French company in construction engineering and mobility services. The goal was to create a complex geolocated data aggregation to enhance ML scoring performance.
 
 - 🎵 Co-founder and former CTO of [S.A.M](https://www.sammusic.xyz/), an AI tool for crafting personalized music, measure by measure, perfectly tailored to unlock the full potential of video content.
 
