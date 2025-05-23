@@ -6,6 +6,8 @@
   - Migrate an internal Airtable database to an SQLAlchemy-based system, integrating Pytests and deployment.
   - Improve a dataset from a major French company in construction engineering and mobility services. The goal was to create a complex geolocated data aggregation to enhance ML scoring performance.
 
+- 🚲 [Bike Count Prediction App](https://github.com/arthurcornelio88/ds_traffic_cyclist1): An end-to-end Streamlit + GCS + MLflow project to predict hourly bicycle traffic in Paris. Lightweight MLOps setup with dynamic model selection via custom JSON registry. [Live demo here](https://dstrafficcyclist1.streamlit.app/)
+
 - 🎵 Co-founder and former CTO of [S.A.M](https://www.sammusic.xyz/), an AI tool for crafting personalized music, measure by measure, perfectly tailored to unlock the full potential of video content.
 
 - :house_with_garden: End-to-end Machine Learning project predicting Rio de Janeiro's AirBnB pricing. [Kaggle's notebook](https://www.kaggle.com/code/arthurcornelio/predicting-airbnb-housing-prices-in-rio-de-janeiro) and [GitHub repository](https://github.com/arthurcornelio88/airbnbpricing).
