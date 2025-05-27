@@ -5,6 +5,8 @@
 - :technologist: AI Engineer intern at [Datacraft](https://datacraft.paris/). Contributed to: 
   - Migrate an internal Airtable database to an SQLAlchemy-based system, integrating Pytests and deployment.
   - Improve a dataset from a major French company in construction engineering and mobility services. The goal was to create a complex geolocated data aggregation to enhance ML scoring performance.
+ 
+- 🧾 [HelloAsso Automation](https://github.com/arthurcornelio88/hello-router): A FastAPI + GCP + Google Sheets webhook system to automate HelloAsso orders into spreadsheets—**no Zapier, no monthly fees**. Logs to GCS, UI with Gradio, alerts via SendGrid.
 
 - 🚲 [Bike Count Prediction App](https://github.com/arthurcornelio88/ds_traffic_cyclist1): An end-to-end Streamlit + GCS + MLflow project to predict hourly bicycle traffic in Paris. Lightweight MLOps setup with dynamic model selection via custom JSON registry. [Live demo here](https://dstrafficcyclist1.streamlit.app/)
 
