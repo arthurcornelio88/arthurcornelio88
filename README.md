@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙌, I'm Arthur Cornélio</h1>
-<h3 align="center">A passionate brazilian data scientist, living in Paris</h3>
+<h3 align="center">A passionate brazilian AI Engineer, living in Paris</h3>
 
 **Projects** :
 - :technologist: AI Engineer intern at [Datacraft](https://datacraft.paris/). Contributed to: 
