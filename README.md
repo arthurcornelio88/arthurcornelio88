@@ -5,6 +5,7 @@
 - :technologist: AI Engineer intern at [Datacraft](https://datacraft.paris/). Contributed to: 
   - Migrate an internal Airtable database to an SQLAlchemy-based system, integrating Pytests and deployment.
   - Improve a dataset from a major French company in construction engineering and mobility services. The goal was to create a complex geolocated data aggregation to enhance ML scoring performance.
+  - Led a full datathon infrastructure setup from scratch using **Terraform (IaC)** and **AWS** (SageMaker, CloudWatch, S3, etc.). Deployed 49 SageMaker instances (including GPU), with data exfiltration protection in place.
 
 - 👗 [Visual Clothes Recommender](https://clothes-reco.streamlit.app/): A Streamlit-powered visual recommendation engine for fashion retail. It suggests cross-category products based on Pixyle.ai’s image-tagging API. Fully documented MVP with interpretable suggestions, modular CLI/UI, and extensible to design, cosmetics, or furniture.
  
