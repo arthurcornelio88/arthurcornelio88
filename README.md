@@ -3,7 +3,7 @@
 
 🚀 **Main Projects**  
 
-- 🥷 **[Automatic Fraud Detection](https://gitlab.com/automatic_fraud_detection_b3/dataops_pipeline)**: Full-stack MLOps system detecting credit card fraud — including model training, prediction APIs, Airflow orchestration, auto-retraining, and GCP Cloud Run deployment.  
+- 🥷 **[Automatic Fraud Detection](https://gitlab.com/automatic_fraud_detection_b3)**: Full-stack MLOps system detecting credit card fraud — including model training, prediction APIs, Airflow orchestration, auto-retraining, and GCP Cloud Run deployment.  
 - 👗 **[Visual Clothes Recommender](https://clothes-reco.streamlit.app/)**: Fashion recommendation engine powered by Pixyle.ai and Streamlit. Suggests cross-category outfits with interpretability.  
 - 🚲 **[Bike Count Prediction App](https://github.com/arthurcornelio88/ds_traffic_cyclist1)**: Streamlit + MLflow + GCP-powered app predicting bicycle traffic in Paris, with dynamic model registry and clean UI.
 
