@@ -1,17 +1,20 @@
 <h1 align="center">Hi 🙌, I'm Arthur Cornélio</h1>
 <h3 align="center">A passionate brazilian AI Engineer, living in Paris</h3>
 
+🚀 **Main Projects**  
+
+- 🥷 **[Automatic Fraud Detection](https://gitlab.com/automatic_fraud_detection_b3/dataops_pipeline)**: Full-stack MLOps system detecting credit card fraud — including model training, prediction APIs, Airflow orchestration, auto-retraining, and GCP Cloud Run deployment.  
+- 👗 **[Visual Clothes Recommender](https://clothes-reco.streamlit.app/)**: Fashion recommendation engine powered by Pixyle.ai and Streamlit. Suggests cross-category outfits with interpretability.  
+- 🚲 **[Bike Count Prediction App](https://github.com/arthurcornelio88/ds_traffic_cyclist1)**: Streamlit + MLflow + GCP-powered app predicting bicycle traffic in Paris, with dynamic model registry and clean UI.
+
+
 **Projects** :
 - :technologist: AI Engineer intern at [Datacraft](https://datacraft.paris/). Contributed to: 
-  - Migrate an internal Airtable database to an SQLAlchemy-based system, integrating Pytests and deployment.
+  - Migrate an internal Airtable database to an SQLAlchemy-based system, integrating Pytests and deployment (Scaleway, Grafana, GitHub Actions CI/CD).
   - Improve a dataset from a major French company in construction engineering and mobility services. The goal was to create a complex geolocated data aggregation to enhance ML scoring performance.
   - Led a full datathon infrastructure setup from scratch using **Terraform (IaC)** and **AWS** (SageMaker, CloudWatch, S3, etc.). Deployed 49 SageMaker instances (including GPU), with data exfiltration protection in place.
-
-- 👗 [Visual Clothes Recommender](https://clothes-reco.streamlit.app/): A Streamlit-powered visual recommendation engine for fashion retail. It suggests cross-category products based on Pixyle.ai’s image-tagging API. Fully documented MVP with interpretable suggestions, modular CLI/UI, and extensible to design, cosmetics, or furniture.
  
 - 🧾 [HelloAsso Automation](https://github.com/arthurcornelio88/hello-router): A FastAPI + GCP + Google Sheets webhook system to automate HelloAsso orders into spreadsheets—**no Zapier, no monthly fees**. Logs to GCS, UI with Gradio, alerts via SendGrid.
-
-- 🚲 [Bike Count Prediction App](https://github.com/arthurcornelio88/ds_traffic_cyclist1): An end-to-end Streamlit + GCS + MLflow project to predict hourly bicycle traffic in Paris. Lightweight MLOps setup with dynamic model selection via custom JSON registry. [Live demo here](https://dstrafficcyclist1.streamlit.app/)
 
 - 🎵 Co-founder and former CTO of [S.A.M](https://www.sammusic.xyz/), an AI tool for crafting personalized music, measure by measure, perfectly tailored to unlock the full potential of video content.
 
@@ -20,12 +23,6 @@
 - 😄 [How happy is Europe?](https://github.com/arthurcornelio88/how-happy-is-europe) **To finish my Le Wagon bootcamp in DataScience and AI, I worked on this project!** It's a machine-learning model to predict happiness in a large dataset made by the European Social Survey.
 
 - 🦜 I led a five alumni group to create a model on [BirdCLEF 2024 Kaggle Competition](https://github.com/arthurcornelio88/birdclef2024-lewagon-1601)
-
-**Under construction** : 
-
-- 🔥 I'm working on a classification model (clustering) of music consummation tendencies in Brazil. Clustering already done on numerical features, take a look at my [Kaggle's notebook](https://www.kaggle.com/code/arthurcornelio/arthur-spotify-goi-nia)
-
-- 🌱 I’m currently learning **classification models in depth**.
 
 **Interests** : 
 
@@ -38,8 +35,6 @@
 - 💻 Here's my [portfolio](https://troopl.com/arthurcornelio)
 
 - :link: My [LinkedIn profile](https://www.linkedin.com/in/arthurcornelio)
-
-- 📄 Know about my experiences in [my resume](https://rxresu.me/arthurcornelio88/cornelio-fr)
 
 - 📫 How to reach me **arthur.cornelio@gmail.com**
 
