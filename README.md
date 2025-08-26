@@ -37,17 +37,20 @@
 ### MLOps & DataOps
 - 🥷 **[Automatic Fraud Detection](https://gitlab.com/automatic_fraud_detection_b3)**: A full-stack MLOps system for credit card fraud detection, including model training, prediction APIs, Airflow orchestration, auto-retraining, and deployment on GCP Cloud Run.
 - 💳 **[Stripe ETL Pipeline](https://gitlab.com/stripe_b2)**: An automated OLTP → OLAP data flow using PostgreSQL, Snowflake, and MongoDB, orchestrated via GitLab CI/CD. It handles raw data ingestion, transformation, and exploration through a FastAPI + Streamlit UI.
-- 🧾 **[HelloAsso Automation](https://github.com/arthurcornelio88/hello-router)**: A webhook system using FastAPI, GCP, and Google Sheets to automate order entry, replacing Zapier. Features logging to GCS, a Gradio UI, and SendGrid alerts.
+- 🧾 **[HelloAsso Automation](https://github.com/arthurcornelio88/helloasso-webhook-to-gsheet)**: A webhook system using FastAPI, GCP, and Google Sheets to automate order entry, replacing Zapier. Features logging to GCS, a Gradio UI, and SendGrid alerts.
 
 ### Machine Learning
-- 🚲 **[Bike Count Prediction App](https://github.com/arthurcornelio88/ds_traffic_cyclist1)**: A Streamlit + MLflow app predicting bicycle traffic in Paris, with a dynamic model registry and deployment on GCP.
+- 🚲 **[Bike Count Prediction App](https://github.com/arthurcornelio88/bike-count-prediction-app)**: A Streamlit + MLflow app predicting bicycle traffic in Paris, with a dynamic model registry and deployment on GCP.
+  > 🚀 **[Live App here](https://dstrafficcyclist1.streamlit.app/)**
 - 👗 **[Visual Clothes Recommender](https://clothes-reco.streamlit.app/)**: A fashion recommendation engine powered by Pixyle.ai and Streamlit, suggesting cross-category outfits with a focus on interpretability.
+  > 🚀 **[Live App here](https://clothes-reco.streamlit.app/)**
 - 🏠 **[AirBnB Price Prediction](https://github.com/arthurcornelio88/airbnbpricing)**: An end-to-end Machine Learning project to predict AirBnB housing prices in Rio de Janeiro. ([Kaggle Notebook](https://www.kaggle.com/code/arthurcornelio/predicting-airbnb-housing-prices-in-rio-de-janeiro)).
 - 😄 **[How Happy is Europe?](https://github.com/arthurcornelio88/how-happy-is-europe)**: A machine learning model to predict happiness scores using a large dataset from the European Social Survey. My final project for the Le Wagon bootcamp.
 - 🦜 **[BirdCLEF 2024 Kaggle Competition](https://github.com/arthurcornelio88/birdclef2024-lewagon-1601)**: Led a team of five alumni to build a model for an audio classification challenge.
 
 ### Web & App Development
 - 💸 **[Multilingual Bill Splitter](https://github.com/arthurcornelio88/multilingual-bill-splitter)**: A multilingual expense-sharing app built with Python and Streamlit, fully containerized with Docker for easy deployment.
+  > 🚀 **[Live App here](https://huggingface.co/spaces/arthurcornelio88/divisao_contas_multilingue)**
 
 ---
 
