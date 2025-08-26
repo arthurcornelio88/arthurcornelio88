@@ -23,7 +23,7 @@
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="40" height="40"/></a>
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="pyspark" width="40" height="40"/></a>
     <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/></a>
-    <a href="https://dvc.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dvc/dvc-icon.svg" alt="dvc" width="40" height="40"/></a>
+    <a href="https://dvc.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353683/dvc.svg" alt="dvc" width="40" height="40"/></a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
@@ -45,8 +45,6 @@
 - 👗 **[Visual Clothes Recommender](https://clothes-reco.streamlit.app/)**: A fashion recommendation engine powered by Pixyle.ai and Streamlit, suggesting cross-category outfits with a focus on interpretability.
   > 🚀 **[Live App here](https://clothes-reco.streamlit.app/)**
 - 🏠 **[AirBnB Price Prediction](https://github.com/arthurcornelio88/airbnbpricing)**: An end-to-end Machine Learning project to predict AirBnB housing prices in Rio de Janeiro. ([Kaggle Notebook](https://www.kaggle.com/code/arthurcornelio/predicting-airbnb-housing-prices-in-rio-de-janeiro)).
-- 😄 **[How Happy is Europe?](https://github.com/arthurcornelio88/how-happy-is-europe)**: A machine learning model to predict happiness scores using a large dataset from the European Social Survey. My final project for the Le Wagon bootcamp.
-- 🦜 **[BirdCLEF 2024 Kaggle Competition](https://github.com/arthurcornelio88/birdclef2024-lewagon-1601)**: Led a team of five alumni to build a model for an audio classification challenge.
 
 ### Web & App Development
 - 💸 **[Multilingual Bill Splitter](https://github.com/arthurcornelio88/multilingual-bill-splitter)**: A multilingual expense-sharing app built with Python and Streamlit, fully containerized with Docker for easy deployment.
