@@ -35,7 +35,7 @@
 ## 🚀 Projects
 
 ### MLOps & DataOps
-- 🥷 **[Automatic Fraud Detection](https://github.com/arthurcornelio88/stripe_automatic_fraud_detection)**: A full-stack MLOps system for credit card fraud detection, including model training, prediction APIs, Airflow orchestration, auto-retraining, and deployment on GCP Cloud Run.
+- 🥷 **[Automatic Fraud Detection](https://github.com/arthurcornelio88/automatic_fraud_detection)**: A full-stack MLOps system for credit card fraud detection, including model training, prediction APIs, Airflow orchestration, auto-retraining, and deployment on GCP Cloud Run.
 - 💳 **[Stripe ETL Pipeline](https://gitlab.com/stripe_b2)**: An automated OLTP → OLAP data flow using PostgreSQL, Snowflake, and MongoDB, orchestrated via GitLab CI/CD. It handles raw data ingestion, transformation, and exploration through a FastAPI + Streamlit UI.
 - 🧾 **[HelloAsso Automation](https://github.com/arthurcornelio88/helloasso-webhook-to-gsheet)**: A webhook system using FastAPI, GCP, and Google Sheets to automate order entry, replacing Zapier. Features logging to GCS, a Gradio UI, and SendGrid alerts.
 
