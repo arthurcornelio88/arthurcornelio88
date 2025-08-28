@@ -44,7 +44,8 @@
   > 🚀 **[Live App here](https://dstrafficcyclist1.streamlit.app/)**
 - 👗 **[Visual Clothes Recommender](https://clothes-reco.streamlit.app/)**: A fashion recommendation engine powered by Pixyle.ai and Streamlit, suggesting cross-category outfits with a focus on interpretability.
   > 🚀 **[Live App here](https://clothes-reco.streamlit.app/)**
-- 🏠 **[AirBnB Price Prediction](https://github.com/arthurcornelio88/airbnbpricing)**: An end-to-end Machine Learning project to predict AirBnB housing prices in Rio de Janeiro. ([Kaggle Notebook](https://www.kaggle.com/code/arthurcornelio/predicting-airbnb-housing-prices-in-rio-de-janeiro)).
+- 🏠 **[AirBnB Price Prediction](https://github.com/arthurcornelio88/airbnbpricing)**: An end-to-end Machine Learning project to predict AirBnB housing prices in Rio de Janeiro.
+  > 🚀 **[Kaggle Notebook](https://www.kaggle.com/code/arthurcornelio/predicting-airbnb-housing-prices-in-rio-de-janeiro)**
 
 ### Web & App Development
 - 💸 **[Multilingual Bill Splitter](https://github.com/arthurcornelio88/multilingual-bill-splitter)**: A multilingual expense-sharing app built with Python and Streamlit, fully containerized with Docker for easy deployment.
