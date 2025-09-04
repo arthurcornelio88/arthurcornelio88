@@ -36,8 +36,10 @@
 
 ### MLOps & DataOps
 - 🥷 **[Automatic Fraud Detection](https://github.com/arthurcornelio88/automatic_fraud_detection)**: A full-stack MLOps system for credit card fraud detection, including model training, prediction APIs, Airflow orchestration, auto-retraining, and deployment on GCP Cloud Run.
+- 🌤️ **[Weather ML Pipeline](https://github.com/arthurcornelio88/airflow-weather-ml-pipeline)**: A comprehensive Apache Airflow data pipeline that collects weather data via OpenWeatherMap API, transforms JSON to CSV, trains multiple ML models in parallel using TaskGroup, and automatically selects the best performer. Features modern Airflow 2.0+ decorators, Docker deployment, and robust error handling.
 - 💳 **[Stripe ETL Pipeline](https://github.com/arthurcornelio88/stripe-etl)**: An automated OLTP → OLAP data flow using PostgreSQL, Snowflake, and MongoDB, orchestrated via GitLab CI/CD. It handles raw data ingestion, transformation, and exploration through a FastAPI + Streamlit UI.
 - 🧾 **[HelloAsso Automation](https://github.com/arthurcornelio88/helloasso-webhook-to-gsheet)**: A webhook system using FastAPI, GCP, and Google Sheets to automate order entry, replacing Zapier. Features logging to GCS, a Gradio UI, and SendGrid alerts.
+- 
 
 ### Machine Learning
 - 🚲 **[Bike Count Prediction App](https://github.com/arthurcornelio88/bike-count-prediction-app)**: A Streamlit + MLflow app predicting bicycle traffic in Paris, with a dynamic model registry and deployment on GCP.
