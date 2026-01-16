@@ -19,6 +19,7 @@
 - 🏢 **[INSEE Data Enrichment Pipeline](https://github.com/arthurcornelio88/insee_data_processor)**: Python pipeline leveraging INSEE Sirene API v3.11 for official French company classification. Features intelligent duplicate detection, complete data enrichment (19 columns), conflict analysis, and automated reporting. Achieves 94.2% success rate on 3000+ companies while eliminating expensive third-party solutions.
 
 ### Machine Learning
+- 🧥 **[Cabide AI](https://github.com/arthurcornelio88/cabide-ai)**: High-performance Generative AI tool for fashion: orchestration of diffusion models via Banana Pro and FastAPI, enabling instantaneous 'mannequin' visual generation for e-commerce catalogs.
 - 🚲 **[Bike Count Prediction App](https://github.com/arthurcornelio88/bike-count-prediction-app)**: A Streamlit + MLflow app predicting bicycle traffic in Paris, with a dynamic model registry and deployment on GCP.
   > 🚀 **[Live App here](https://dstrafficcyclist1.streamlit.app/)**
 - 👗 **[Visual Clothes Recommender](https://clothes-reco.streamlit.app/)**: A fashion recommendation engine powered by Pixyle.ai and Streamlit, suggesting cross-category outfits with a focus on interpretability.
