@@ -19,6 +19,7 @@
 - 🏢 **[INSEE Data Enrichment Pipeline](https://github.com/arthurcornelio88/insee_data_processor)**: Python pipeline leveraging INSEE Sirene API v3.11 for official French company classification. Features intelligent duplicate detection, complete data enrichment (19 columns), conflict analysis, and automated reporting. Achieves 94.2% success rate on 3000+ companies while eliminating expensive third-party solutions.
 
 ### Machine Learning
+- 🎤 **[Vocal Analysis](https://github.com/arthurcornelio88/vocal-analysis)**: A bioacoustic analysis framework designed to study vocal techniques (specifically Ademilde Fonseca). It utilizes **CREPE** for high-precision pitch extraction, **GMM (Gaussian Mixture Models)** for unsupervised clustering of vocal registers (M1/M2), and **XGBoost** for classification. The pipeline also computes articulation agility metrics and generates automated narrative reports using LLMs.
 - 🧥 **[Cabide AI](https://github.com/arthurcornelio88/cabide-ai)**: High-performance Generative AI tool for fashion: orchestration of diffusion models via Banana Pro and FastAPI, enabling instantaneous 'mannequin' visual generation for e-commerce catalogs.
 - 🚲 **[Bike Count Prediction App](https://github.com/arthurcornelio88/bike-count-prediction-app)**: A Streamlit + MLflow app predicting bicycle traffic in Paris, with a dynamic model registry and deployment on GCP.
   > 🚀 **[Live App here](https://dstrafficcyclist1.streamlit.app/)**
@@ -34,6 +35,10 @@
 ---
 
 ## 💼 Professional Experience
+
+- **ML / Data Engineer** - [pyl.tech](https://pyl.tech/)
+  - Developing robust **data pipelines** on **GCP**, optimizing data flow and processing efficiency.
+  - Architected the infrastructure **Landing Zone** from scratch using **Terraform** and implemented comprehensive **CI/CD** workflows for automated deployment and governance.
 
 - **ML Engineer (Intern)** - [Datacraft](https://datacraft.paris/)
   - Migrated an internal Airtable database to an SQLAlchemy-based system, integrating Pytests and deploying with Scaleway, Grafana, and GitHub Actions CI/CD.
@@ -95,3 +100,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurcornelio88&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="arthurcornelio88" />
   <img src="https://github-readme-stats.vercel.app/api?username=arthurcornelio88&show_icons=true&locale=en&theme=vision-friendly-dark" alt="arthurcornelio88" />
+</p>
